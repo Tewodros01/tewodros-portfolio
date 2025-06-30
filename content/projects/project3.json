@@ -1,0 +1,11 @@
+{
+  "priority": 3,
+  "title": "Justinshope E-commerce App",
+  "shortDescription": "A cross-platform e-commerce mobile app for the Italian market built with Flutter, Node.js (TypeScript), and Firebase. It delivers a seamless shopping experience across Android and iOS.",
+  "cover": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?q=80&w=2070&auto=format&fit=crop",
+  "type": "Client Work 🌍",
+  "livePreview": "https://justinshop.it/",
+  "githubLink": "",
+  "githubStars": "",
+  "numberOfSales": "500+ Downloads"
+}

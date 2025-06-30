@@ -1,0 +1,9 @@
+{
+  "priority": 2,
+  "title": "Inventory Management Software (IMS)",
+  "shortDescription": "A web-based inventory system enabling businesses to track stock levels, manage products, and analyze performance. Built with React, Redux, Laravel, and MySQL.",
+  "cover": "https://images.unsplash.com/photo-1581090700227-4c4f50cce256?q=80&w=2070&auto=format&fit=crop",
+  "livePreview": "https://demoretail.alephtavconsult.net/",
+  "visitors": "500+ Users",
+  "earned": "$2,000 Earned"
+}
