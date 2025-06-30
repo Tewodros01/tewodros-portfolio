@@ -50,7 +50,7 @@ const Hero = () => {
               priority={true}
               sizes="(min-width: 1024px) 25.75rem, (min-width: 768px) 20rem, (min-width: 640px) 15rem, 14rem"
               alt="John Doe - Full Stack Developer"
-              className="rounded-full bg-gradient-to-r from-sky-950 via-cyan-950 to-teal-200 object-contain"
+              className="bg-primary bg-small-glow bg-small-glow-position md:bg-large-glow-position lg:bg-large-glow min-h-[calc(dvh-4rem)] rounded-full bg-no-repeat object-contain"
             />
             <Ellipse
               ref={ellipseRef}
